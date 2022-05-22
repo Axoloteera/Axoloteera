@@ -2,7 +2,8 @@
 ### 黎明终会到来，但必须有人在黑夜中点亮灯火。  
 会Python的Scratcher～  
 同时我也会机器人技术，现在在读小学。  
-
+<img src="https://github-readme-stats.vercel.app/api?username=Gtd232&show_icons=true&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtd232&layout=compact&show_icons=true&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
 
 <!--
 **Gtd232/Gtd232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋  
+会Python的Scratcher～  
+同时我也会机器人技术，现在在读小学。  
+
 
 <!--
 **Gtd232/Gtd232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

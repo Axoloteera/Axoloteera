@@ -1,7 +1,9 @@
 # Hi there 👋  
 ### 黎明终会到来，但必须有人在黑夜中点亮灯火。  
 
-![](https://github-readme-stats.vercel.app/api?username=Gtd232&show_icons=true&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Gtd232&show_icons=true&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true)  
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1698413&auto=1&height=66"></iframe>
+
 <!--
 **Gtd232/Gtd232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

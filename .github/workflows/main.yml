@@ -20,7 +20,7 @@ jobs:
           # Options
           user: Gtd232
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, repositories, community, metadata
           config_animated: yes
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes

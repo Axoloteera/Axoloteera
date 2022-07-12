@@ -22,8 +22,8 @@ jobs:
           svg_out_path: assets/github-snake.svg    
       - name: Commit files
         run: |
-          git config user.email "${{ secrets.GH_EMAIL }}"
-          git config user.name "${{ secrets.GH_USER }}"
+          git config user.email "2326311571@qq.com"
+          git config user.name "Gtd232"
           git add -A
           git commit -m ":snake: Updates Snake Contribution Animation"
           git push

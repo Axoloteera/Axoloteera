@@ -1,7 +1,7 @@
 name: 👩‍💻 Inserts Recent Activity
 on:
   schedule:
-    - cron: '0 * * * *' # Run every hour
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GH_USERNAME: 'matthewjdegarmo'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GRJJ }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
           MAX_LINES: 10

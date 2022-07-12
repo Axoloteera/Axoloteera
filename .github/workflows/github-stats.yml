@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: 🙌 Metrics
+name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   # Currently only want to run every hour.. Don't know how much this would eat away at my 'free' compute time.
@@ -14,7 +14,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.GH_PROFILE }}
+          token: ${{ secrets.GRJJ }}
 
           # Options
           user: matthewjdegarmo

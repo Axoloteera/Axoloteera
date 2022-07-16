@@ -1,0 +1,38 @@
+
+name: Metrics embed
+on:
+  # Schedule updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GRJJ }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GRJJ }}
+
+          # Options
+          user: Gtd232
+          template: classic
+          base: header, activity, repositories, community, metadata
+          config_animated: yes
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: no
+          plugin_languages_colors: github
+          plugin_languages_ignored: TeX, Vim script, Makefile
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 20        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+

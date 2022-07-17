@@ -9,13 +9,14 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.GRJJ }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GRJJ }}
 
           # Options
           user: Gtd232

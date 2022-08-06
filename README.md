@@ -12,7 +12,7 @@
 
 **✏️开发环境：**
 
-![Windows](https://img.shields.io/badge/-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Pycharm](https://img.shields.io/badge/-Pycharm-007ACC?style=flat-square&logo=Pycharm&logoColor=white) ![Turbowarp](https://img.shields.io/badge/-Turbowarp-ff4c4c?style=flat-square&logo=scratch&logoColor=white)
+![Kail（Kali）](https://img.shields.io/badge/-Kali-0078D6?style=flat-square&logo=linux&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Pycharm](https://img.shields.io/badge/-Pycharm-007ACC?style=flat-square&logo=Pycharm&logoColor=white) ![Turbowarp](https://img.shields.io/badge/-Turbowarp-ff4c4c?style=flat-square&logo=scratch&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=Gtd232&show_icons=true&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true)  
 

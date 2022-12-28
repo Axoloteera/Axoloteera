@@ -22,9 +22,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
+          token: ${{ secrets.GRJJ }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
           message: 'Generate Contribution Snake'
+          token: ${{ secrets.GRJJ }}

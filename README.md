@@ -1,9 +1,9 @@
-# 为了没有眼泪的明天
+# 唯有理智最为可贵
 
 Gtd232 / 14 y.o. / Student  
 Minecraft / Phigros / Genshin Impact
 
-## "We're Yong & Free."
+## "为了没有眼泪的明天"
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gtd232/Gtd232/main/github-metrics.svg"><br>

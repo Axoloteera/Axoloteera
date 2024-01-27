@@ -1,6 +1,7 @@
 # 唯有理智最为可贵
 
 Gtd232 / 14 y.o. / Student  
+Programming /  
 Minecraft / Phigros / Genshin Impact
 
 ## "为了没有眼泪的明天"

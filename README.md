@@ -1,7 +1,7 @@
 # 你好
 
 Gtd232 / 14 y.o. / Student  
-Scratch / Python / Node.js
+Scratch / Python / Node.js  
 Minecraft / Phigros / Genshin Impact
 
 <div align="center">

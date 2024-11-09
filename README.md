@@ -1,8 +1,16 @@
-# 你好
+# Greeting!
+I'm Axoloteera (a.k.a. Gtd232), a 15 y.o. boy from China!  
+Currently, I'm the developer behind [axopl.com](https://axopl.com), as well as a learner.
+Games:
+ - [Minecraft](http://minecraft.net/)
+ - [Honkai: Star Rail](https://hsr.hoyoverse.com)
+Contact me:
+ - Email: [axoloteera@outlook.com](mailto:axoloteera@outlook.com)
+ - Axolotl Pool: [Axoloteera(UID:3)](https://axopl.com/user/3)
+GPG: [`B695 E815 56EE 6659`](https://github.com/Axoloteera.gpg)
+<https://axolotlpower.com>
+TFGS-lover
 
-
-
-清晨，我在傻滩上醒来，看见远处的海啸，不由得感叹太多水作了！ 我用了9999金币买了1个景华，一个打赏，一瓶水作，我看到不远处有个提着美西螈桶的人打伤了一个人，我和我的好朋友秋景花一块去解救了他，解救完了后，我慢慢地回了家。 回家之后，我躺在床上看《美西螈战队》，玩《螈神》，今天升到了9999级，领到了9999美西螈。 中午，我去稽木世界上班，工作内容还是给稽木世界灌水，我给人们发传单，传单内容是“唔唔唔我要9999景华”“灌灌灌灌灌灌灌”等内容，没想到大家都给我点踩，唔唔唔我要灌灌灌灌！ 下午，我上公司领取这个月的工资，有9999999金币呢！ 结束了今天的工作，我站在灌水山顶上，看着点彩霞快速的消散，一轮明月升上天空，我不由得唱起了歌：死了～都要爱，不音译之不痛快！如果你问我的名字是什么，我就会告诉你——我就是大名鼎鼎的AXOLOTL！
 
 
 

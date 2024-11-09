@@ -2,8 +2,8 @@
 I'm Axoloteera (a.k.a. Gtd232), a 15 y.o. boy from China!  
 Currently, I'm the developer behind [axopl.com](https://axopl.com), as well as a learner.  
 Games:  
- - [Minecraft](http://minecraft.net/)  
- - [Honkai: Star Rail](https://hsr.hoyoverse.com)
+ - [Minecraft(Axoloteera)](http://minecraft.net/)  
+ - [Honkai: Star Rail(UID:144345804)](https://hsr.hoyoverse.com)
 
 Contact me:  
  - Email: [axoloteera@outlook.com](mailto:axoloteera@outlook.com)  
@@ -11,7 +11,7 @@ Contact me:
 
 GPG: [`B695 E815 56EE 6659`](https://github.com/Axoloteera.gpg)  
 <https://axolotlpower.com>  
-TFGS-lover  
+TFGS-lover9️⃣9️⃣9️⃣
 
 
 

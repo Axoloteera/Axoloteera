@@ -1,5 +1,6 @@
 # 你好！
-我是`Axoloteera`，也叫`Gtd232`。
+我是`Axoloteera`，也叫`Gtd232`。  
+我是宇宙最强。我喜欢做无敌实验。  
 游戏:  
  - [《我的世界》(Axoloteera)](https://minecraft.net/)  
  - [《崩坏：星穹铁道》(UID:144345804)](https://hsr.mihoyo.com)

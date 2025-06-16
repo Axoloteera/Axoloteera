@@ -4,6 +4,7 @@ I'm `Axoloteera`(a.k.a. `Gtd232`) -- Welcome to my space!
 Contact me:
  - E-mail: [axoloteera@outlook.com](mailto:axoloteera@outlook.com)  
  - AxolotlPool: [Axoloteera(UID:3)](https://axopl.com/user/3)
+ - Telegram: [Axoloteera](https://t.me/Axoloteera)
 
 
 Feel free to ping me anytime, I'm happy to meet you!
